@@ -24,11 +24,11 @@ A clean, dark **Dopamine** theme that celebrates the lights of Downtown Tokyo at
 
 ## :memo: Usage
 1. Clone this template
-'''bash
+```bash
 git clone https://github.com/lkxe/tokyo-night-dopamine
-'''
+```
 2. Copy the TokyoNight.conf file to your dopamine themes folder
-'''bash
+```bash
 cp tokyo-night-dopamine/TokyoNight.theme ~/.config/Dopamine/Themes/
-'''
+```
 3. Apply the theme in Menu -> Settings -> Color
